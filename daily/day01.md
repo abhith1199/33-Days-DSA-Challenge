@@ -1,8 +1,8 @@
 # 🌼 Day 1: Arrays – Traversal & Max/Min
 
 ## 📘 Concepts to Learn
-- Array Traversal
-- Max/Min
+- Array Traversal, hashtable
+- Math, recursion
 
 ## 🔍 Problems
 1. [Two Sum](https://leetcode.com/problems/two-sum/)
