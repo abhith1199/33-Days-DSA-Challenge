@@ -1,4 +1,4 @@
-# 🌼 Day 4 of 33 Days DSA Challenge
+# 🌼 Day 5 of 33 Days DSA Challenge
 
 ## 📘 Concepts to Learn
 - "Two Pointers, String, Dynamic Programming"
